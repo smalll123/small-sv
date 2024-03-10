@@ -1,0 +1,29 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: 7461982251929091327
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: HARD
+    mohist: false
+  DIM1:
+    worldborder: 5.9999968E7
+  past:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: graveyard
+  twilight_forest:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: twilightforest
+  undergarden:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: undergarden
+  DIM-1:
+    worldborder: 5.9999968E7
+  halucination:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: man
